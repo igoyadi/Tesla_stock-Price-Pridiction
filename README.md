@@ -1,1 +1,1 @@
-# Tesla_stock-Price-Pridiction
+# Tesla_stock_price_prediction
